@@ -3102,6 +3102,8 @@ route del 103.69.116.0/22
 route del 103.69.132.0/22
 route del 103.69.152.0/22
 route del 103.69.212.0/22
+route del 103.70.8.0/22
+route del 103.70.148.0/22
 route del 103.192.0.0/22
 route del 103.192.4.0/22
 route del 103.192.8.0/22

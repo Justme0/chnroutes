@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+ 
+# update ip files:
+# python chnroutes.py -p linux
 
 set -x
 
